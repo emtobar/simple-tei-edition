@@ -40,9 +40,11 @@
                <speaker>Anciano</speaker>
                <p>mmmm</p>
             </sp>
+            <figure>
+               <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bigbullmoose.jpg/250px-Bigbullmoose.jpg"/>
+               <head>The View from the Bridge</head>
+            </figure>
          </div>
-         
-         
       </body>
   </text>
 </TEI>
